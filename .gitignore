@@ -1,0 +1,10 @@
+.gradle
+.idea
+.vscode
+build
+gradle
+gradle.properties
+gradlew
+gradlew.bat
+out
+
